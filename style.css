@@ -1,5 +1,9 @@
 h1{
   font-family: 'McLaren', cursive;
+  margin-top: 40px;
+}
+h2 {
+  padding: 40px 0px 40px 0px;
 }
 a {
   text-size: 14px;
@@ -10,7 +14,7 @@ body {
   margin: 40px;
 }
 .topnav {
-  background-color: #333;
+  background-color: #0972e3;
   overflow: hidden;
 }
 
