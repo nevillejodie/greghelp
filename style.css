@@ -9,7 +9,7 @@ a {
   text-size: 14px;
 }
 body {
-  background-color: #cbe6f5;
+  background-color: white;
   text-align: center;
   margin: 40px;
 }
@@ -53,30 +53,8 @@ body {
     text-align: left;
     background-color: #2879F7;
   }
-  /* Style all font awesome icons */
-  .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-  }
-
-  /* Add a hover effect if you want */
-  .fa:hover {
-    opacity: 0.7;
-  }
-
-  /* Set a specific color for each brand */
-
-  /* Facebook */
-  .fa-facebook {
-    background: #3B5998;
-    color: white;
-  }
-
-  /* Twitter */
-  .fa-twitter {
-    background: #55ACEE;
-    color: white;
-  }
+  .btn {
+    background: #4868ac;
+    border-color: #314776;
+    margin:2%;
+}
