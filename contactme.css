@@ -11,7 +11,6 @@ body {
   background-color: #2879F7;
   overflow: hidden;
 }
-
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
@@ -55,8 +54,4 @@ position: absolute;
 bottom: 10px;
 width: 50%;
 border: 3px solid #8AC007;
-}
-@media only screen and (max-width: 60em) {
-    .number .email {
-    font-size: 12px;
 }
